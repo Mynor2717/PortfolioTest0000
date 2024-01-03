@@ -1,0 +1,14 @@
+.tagcloud {
+    display: inline-block;
+    top: 100px;
+    left: 1%;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: 'Bebas Neue', Cursive;
+    font-size: 20px;
+
+}
+
+.tagcloud--item:hover {
+    color:#FA8072 ;
+}
